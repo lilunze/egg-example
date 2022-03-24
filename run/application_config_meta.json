@@ -1,0 +1,279 @@
+{
+  "keys": "/Users/dada/Desktop/egg-example/config/config.js",
+  "session": {
+    "maxAge": "/Users/dada/Desktop/egg-example/node_modules/egg-session/config/config.default.js",
+    "key": "/Users/dada/Desktop/egg-example/node_modules/egg-session/config/config.default.js",
+    "httpOnly": "/Users/dada/Desktop/egg-example/node_modules/egg-session/config/config.default.js",
+    "encrypt": "/Users/dada/Desktop/egg-example/node_modules/egg-session/config/config.default.js",
+    "logValue": "/Users/dada/Desktop/egg-example/node_modules/egg-session/config/config.default.js"
+  },
+  "security": {
+    "domainWhiteList": "/Users/dada/Desktop/egg-example/node_modules/egg-security/config/config.default.js",
+    "protocolWhiteList": "/Users/dada/Desktop/egg-example/node_modules/egg-security/config/config.default.js",
+    "defaultMiddleware": "/Users/dada/Desktop/egg-example/node_modules/egg-security/config/config.default.js",
+    "csrf": {
+      "enable": "/Users/dada/Desktop/egg-example/node_modules/egg-security/config/config.default.js",
+      "type": "/Users/dada/Desktop/egg-example/node_modules/egg-security/config/config.default.js",
+      "ignoreJSON": "/Users/dada/Desktop/egg-example/node_modules/egg-security/config/config.default.js",
+      "useSession": "/Users/dada/Desktop/egg-example/node_modules/egg-security/config/config.default.js",
+      "cookieName": "/Users/dada/Desktop/egg-example/node_modules/egg-security/config/config.default.js",
+      "sessionName": "/Users/dada/Desktop/egg-example/node_modules/egg-security/config/config.default.js",
+      "headerName": "/Users/dada/Desktop/egg-example/node_modules/egg-security/config/config.default.js",
+      "bodyName": "/Users/dada/Desktop/egg-example/node_modules/egg-security/config/config.default.js",
+      "queryName": "/Users/dada/Desktop/egg-example/node_modules/egg-security/config/config.default.js",
+      "refererWhiteList": "/Users/dada/Desktop/egg-example/node_modules/egg-security/config/config.default.js"
+    },
+    "xframe": {
+      "enable": "/Users/dada/Desktop/egg-example/node_modules/egg-security/config/config.default.js",
+      "value": "/Users/dada/Desktop/egg-example/node_modules/egg-security/config/config.default.js"
+    },
+    "hsts": {
+      "enable": "/Users/dada/Desktop/egg-example/node_modules/egg-security/config/config.local.js",
+      "maxAge": "/Users/dada/Desktop/egg-example/node_modules/egg-security/config/config.default.js",
+      "includeSubdomains": "/Users/dada/Desktop/egg-example/node_modules/egg-security/config/config.default.js"
+    },
+    "dta": {
+      "enable": "/Users/dada/Desktop/egg-example/node_modules/egg-security/config/config.default.js"
+    },
+    "methodnoallow": {
+      "enable": "/Users/dada/Desktop/egg-example/node_modules/egg-security/config/config.default.js"
+    },
+    "noopen": {
+      "enable": "/Users/dada/Desktop/egg-example/node_modules/egg-security/config/config.default.js"
+    },
+    "nosniff": {
+      "enable": "/Users/dada/Desktop/egg-example/node_modules/egg-security/config/config.default.js"
+    },
+    "referrerPolicy": {
+      "enable": "/Users/dada/Desktop/egg-example/node_modules/egg-security/config/config.default.js",
+      "value": "/Users/dada/Desktop/egg-example/node_modules/egg-security/config/config.default.js"
+    },
+    "xssProtection": {
+      "enable": "/Users/dada/Desktop/egg-example/node_modules/egg-security/config/config.default.js",
+      "value": "/Users/dada/Desktop/egg-example/node_modules/egg-security/config/config.default.js"
+    },
+    "csp": {
+      "enable": "/Users/dada/Desktop/egg-example/node_modules/egg-security/config/config.default.js",
+      "policy": "/Users/dada/Desktop/egg-example/node_modules/egg-security/config/config.default.js"
+    },
+    "ssrf": {
+      "ipBlackList": "/Users/dada/Desktop/egg-example/node_modules/egg-security/config/config.default.js",
+      "ipExceptionList": "/Users/dada/Desktop/egg-example/node_modules/egg-security/config/config.default.js",
+      "checkAddress": "/Users/dada/Desktop/egg-example/node_modules/egg-security/config/config.default.js"
+    }
+  },
+  "helper": {
+    "shtml": "/Users/dada/Desktop/egg-example/node_modules/egg-security/config/config.default.js"
+  },
+  "jsonp": {
+    "limit": "/Users/dada/Desktop/egg-example/node_modules/egg-jsonp/config/config.default.js",
+    "callback": "/Users/dada/Desktop/egg-example/node_modules/egg-jsonp/config/config.default.js",
+    "csrf": "/Users/dada/Desktop/egg-example/node_modules/egg-jsonp/config/config.default.js"
+  },
+  "onerror": {
+    "errorPageUrl": "/Users/dada/Desktop/egg-example/node_modules/egg-onerror/config/config.default.js",
+    "appErrorFilter": "/Users/dada/Desktop/egg-example/node_modules/egg-onerror/config/config.default.js",
+    "templatePath": "/Users/dada/Desktop/egg-example/node_modules/egg-onerror/config/config.default.js"
+  },
+  "i18n": {
+    "defaultLocale": "/Users/dada/Desktop/egg-example/node_modules/egg-i18n/config/config.default.js",
+    "dirs": "/Users/dada/Desktop/egg-example/node_modules/egg-i18n/config/config.default.js",
+    "queryField": "/Users/dada/Desktop/egg-example/node_modules/egg-i18n/config/config.default.js",
+    "cookieField": "/Users/dada/Desktop/egg-example/node_modules/egg-i18n/config/config.default.js",
+    "cookieDomain": "/Users/dada/Desktop/egg-example/node_modules/egg-i18n/config/config.default.js",
+    "cookieMaxAge": "/Users/dada/Desktop/egg-example/node_modules/egg-i18n/config/config.default.js"
+  },
+  "watcher": {
+    "type": "/Users/dada/Desktop/egg-example/node_modules/egg-watcher/config/config.local.js",
+    "eventSources": {
+      "default": "/Users/dada/Desktop/egg-example/node_modules/egg-watcher/config/config.default.js",
+      "development": "/Users/dada/Desktop/egg-example/node_modules/egg-watcher/config/config.default.js"
+    }
+  },
+  "customLogger": {
+    "scheduleLogger": {
+      "consoleLevel": "/Users/dada/Desktop/egg-example/node_modules/egg-schedule/config/config.default.js",
+      "file": "/Users/dada/Desktop/egg-example/node_modules/egg-schedule/config/config.default.js"
+    }
+  },
+  "schedule": {
+    "directory": "/Users/dada/Desktop/egg-example/node_modules/egg-schedule/config/config.default.js"
+  },
+  "multipart": {
+    "mode": "/Users/dada/Desktop/egg-example/node_modules/egg-multipart/config/config.default.js",
+    "autoFields": "/Users/dada/Desktop/egg-example/node_modules/egg-multipart/config/config.default.js",
+    "defaultCharset": "/Users/dada/Desktop/egg-example/node_modules/egg-multipart/config/config.default.js",
+    "fieldNameSize": "/Users/dada/Desktop/egg-example/node_modules/egg-multipart/config/config.default.js",
+    "fieldSize": "/Users/dada/Desktop/egg-example/node_modules/egg-multipart/config/config.default.js",
+    "fields": "/Users/dada/Desktop/egg-example/node_modules/egg-multipart/config/config.default.js",
+    "fileSize": "/Users/dada/Desktop/egg-example/node_modules/egg-multipart/config/config.default.js",
+    "files": "/Users/dada/Desktop/egg-example/node_modules/egg-multipart/config/config.default.js",
+    "fileExtensions": "/Users/dada/Desktop/egg-example/node_modules/egg-multipart/config/config.default.js",
+    "whitelist": "/Users/dada/Desktop/egg-example/node_modules/egg-multipart/config/config.default.js",
+    "allowArrayField": "/Users/dada/Desktop/egg-example/node_modules/egg-multipart/config/config.default.js",
+    "tmpdir": "/Users/dada/Desktop/egg-example/node_modules/egg-multipart/config/config.default.js",
+    "cleanSchedule": {
+      "cron": "/Users/dada/Desktop/egg-example/node_modules/egg-multipart/config/config.default.js",
+      "disable": "/Users/dada/Desktop/egg-example/node_modules/egg-multipart/config/config.default.js"
+    }
+  },
+  "development": {
+    "watchDirs": "/Users/dada/Desktop/egg-example/node_modules/egg-development/config/config.default.js",
+    "ignoreDirs": "/Users/dada/Desktop/egg-example/node_modules/egg-development/config/config.default.js",
+    "fastReady": "/Users/dada/Desktop/egg-example/node_modules/egg-development/config/config.default.js",
+    "reloadOnDebug": "/Users/dada/Desktop/egg-example/node_modules/egg-development/config/config.default.js",
+    "overrideDefault": "/Users/dada/Desktop/egg-example/node_modules/egg-development/config/config.default.js",
+    "overrideIgnore": "/Users/dada/Desktop/egg-example/node_modules/egg-development/config/config.default.js"
+  },
+  "logrotator": {
+    "filesRotateByHour": "/Users/dada/Desktop/egg-example/node_modules/egg-logrotator/config/config.default.js",
+    "hourDelimiter": "/Users/dada/Desktop/egg-example/node_modules/egg-logrotator/config/config.default.js",
+    "filesRotateBySize": "/Users/dada/Desktop/egg-example/node_modules/egg-logrotator/config/config.default.js",
+    "maxFileSize": "/Users/dada/Desktop/egg-example/node_modules/egg-logrotator/config/config.default.js",
+    "maxFiles": "/Users/dada/Desktop/egg-example/node_modules/egg-logrotator/config/config.default.js",
+    "rotateDuration": "/Users/dada/Desktop/egg-example/node_modules/egg-logrotator/config/config.default.js",
+    "maxDays": "/Users/dada/Desktop/egg-example/node_modules/egg-logrotator/config/config.default.js"
+  },
+  "static": {
+    "prefix": "/Users/dada/Desktop/egg-example/node_modules/egg-static/config/config.default.js",
+    "dir": "/Users/dada/Desktop/egg-example/node_modules/egg-static/config/config.default.js",
+    "dynamic": "/Users/dada/Desktop/egg-example/node_modules/egg-static/config/config.default.js",
+    "preload": "/Users/dada/Desktop/egg-example/node_modules/egg-static/config/config.default.js",
+    "buffer": "/Users/dada/Desktop/egg-example/node_modules/egg-static/config/config.default.js",
+    "maxFiles": "/Users/dada/Desktop/egg-example/node_modules/egg-static/config/config.default.js"
+  },
+  "view": {
+    "root": "/Users/dada/Desktop/egg-example/node_modules/egg-view/config/config.default.js",
+    "cache": "/Users/dada/Desktop/egg-example/node_modules/egg-view/config/config.local.js",
+    "defaultExtension": "/Users/dada/Desktop/egg-example/node_modules/egg-view/config/config.default.js",
+    "defaultViewEngine": "/Users/dada/Desktop/egg-example/node_modules/egg-view/config/config.default.js",
+    "mapping": "/Users/dada/Desktop/egg-example/node_modules/egg-view/config/config.default.js"
+  },
+  "env": "/Users/dada/Desktop/egg-example/node_modules/egg/config/config.default.js",
+  "name": "/Users/dada/Desktop/egg-example/node_modules/egg/config/config.default.js",
+  "cookies": "/Users/dada/Desktop/egg-example/node_modules/egg/config/config.default.js",
+  "proxy": "/Users/dada/Desktop/egg-example/node_modules/egg/config/config.default.js",
+  "maxIpsCount": "/Users/dada/Desktop/egg-example/node_modules/egg/config/config.default.js",
+  "maxProxyCount": "/Users/dada/Desktop/egg-example/node_modules/egg/config/config.default.js",
+  "protocolHeaders": "/Users/dada/Desktop/egg-example/node_modules/egg/config/config.default.js",
+  "ipHeaders": "/Users/dada/Desktop/egg-example/node_modules/egg/config/config.default.js",
+  "hostHeaders": "/Users/dada/Desktop/egg-example/node_modules/egg/config/config.default.js",
+  "pkg": {
+    "name": "/Users/dada/Desktop/egg-example/node_modules/egg/config/config.default.js",
+    "version": "/Users/dada/Desktop/egg-example/node_modules/egg/config/config.default.js",
+    "description": "/Users/dada/Desktop/egg-example/node_modules/egg/config/config.default.js",
+    "main": "/Users/dada/Desktop/egg-example/node_modules/egg/config/config.default.js",
+    "scripts": {
+      "test": "/Users/dada/Desktop/egg-example/node_modules/egg/config/config.default.js",
+      "dev": "/Users/dada/Desktop/egg-example/node_modules/egg/config/config.default.js"
+    },
+    "repository": {
+      "type": "/Users/dada/Desktop/egg-example/node_modules/egg/config/config.default.js",
+      "url": "/Users/dada/Desktop/egg-example/node_modules/egg/config/config.default.js"
+    },
+    "author": "/Users/dada/Desktop/egg-example/node_modules/egg/config/config.default.js",
+    "license": "/Users/dada/Desktop/egg-example/node_modules/egg/config/config.default.js",
+    "bugs": {
+      "url": "/Users/dada/Desktop/egg-example/node_modules/egg/config/config.default.js"
+    },
+    "homepage": "/Users/dada/Desktop/egg-example/node_modules/egg/config/config.default.js",
+    "dependencies": {
+      "egg": "/Users/dada/Desktop/egg-example/node_modules/egg/config/config.default.js"
+    },
+    "devDependencies": {
+      "egg-bin": "/Users/dada/Desktop/egg-example/node_modules/egg/config/config.default.js"
+    }
+  },
+  "baseDir": "/Users/dada/Desktop/egg-example/node_modules/egg/config/config.default.js",
+  "HOME": "/Users/dada/Desktop/egg-example/node_modules/egg/config/config.default.js",
+  "rundir": "/Users/dada/Desktop/egg-example/node_modules/egg/config/config.default.js",
+  "dump": {
+    "ignore": "/Users/dada/Desktop/egg-example/node_modules/egg/config/config.default.js"
+  },
+  "confusedConfigurations": {
+    "bodyparser": "/Users/dada/Desktop/egg-example/node_modules/egg/config/config.default.js",
+    "notFound": "/Users/dada/Desktop/egg-example/node_modules/egg/config/config.default.js",
+    "sitefile": "/Users/dada/Desktop/egg-example/node_modules/egg/config/config.default.js",
+    "middlewares": "/Users/dada/Desktop/egg-example/node_modules/egg/config/config.default.js",
+    "httpClient": "/Users/dada/Desktop/egg-example/node_modules/egg/config/config.default.js"
+  },
+  "notfound": {
+    "pageUrl": "/Users/dada/Desktop/egg-example/node_modules/egg/config/config.default.js"
+  },
+  "siteFile": {
+    "/favicon.ico": "/Users/dada/Desktop/egg-example/node_modules/egg/config/config.default.js",
+    "cacheControl": "/Users/dada/Desktop/egg-example/node_modules/egg/config/config.default.js"
+  },
+  "bodyParser": {
+    "enable": "/Users/dada/Desktop/egg-example/node_modules/egg/config/config.default.js",
+    "encoding": "/Users/dada/Desktop/egg-example/node_modules/egg/config/config.default.js",
+    "formLimit": "/Users/dada/Desktop/egg-example/node_modules/egg/config/config.default.js",
+    "jsonLimit": "/Users/dada/Desktop/egg-example/node_modules/egg/config/config.default.js",
+    "textLimit": "/Users/dada/Desktop/egg-example/node_modules/egg/config/config.default.js",
+    "strict": "/Users/dada/Desktop/egg-example/node_modules/egg/config/config.default.js",
+    "queryString": {
+      "arrayLimit": "/Users/dada/Desktop/egg-example/node_modules/egg/config/config.default.js",
+      "depth": "/Users/dada/Desktop/egg-example/node_modules/egg/config/config.default.js",
+      "parameterLimit": "/Users/dada/Desktop/egg-example/node_modules/egg/config/config.default.js"
+    },
+    "onerror": "/Users/dada/Desktop/egg-example/node_modules/egg/config/config.default.js"
+  },
+  "logger": {
+    "dir": "/Users/dada/Desktop/egg-example/node_modules/egg/config/config.default.js",
+    "encoding": "/Users/dada/Desktop/egg-example/node_modules/egg/config/config.default.js",
+    "env": "/Users/dada/Desktop/egg-example/node_modules/egg/config/config.default.js",
+    "level": "/Users/dada/Desktop/egg-example/node_modules/egg/config/config.default.js",
+    "consoleLevel": "/Users/dada/Desktop/egg-example/node_modules/egg/config/config.default.js",
+    "disableConsoleAfterReady": "/Users/dada/Desktop/egg-example/node_modules/egg/config/config.default.js",
+    "outputJSON": "/Users/dada/Desktop/egg-example/node_modules/egg/config/config.default.js",
+    "buffer": "/Users/dada/Desktop/egg-example/node_modules/egg/config/config.default.js",
+    "appLogName": "/Users/dada/Desktop/egg-example/node_modules/egg/config/config.default.js",
+    "coreLogName": "/Users/dada/Desktop/egg-example/node_modules/egg/config/config.default.js",
+    "agentLogName": "/Users/dada/Desktop/egg-example/node_modules/egg/config/config.default.js",
+    "errorLogName": "/Users/dada/Desktop/egg-example/node_modules/egg/config/config.default.js",
+    "coreLogger": {
+      "consoleLevel": "/Users/dada/Desktop/egg-example/node_modules/egg/config/config.local.js"
+    },
+    "allowDebugAtProd": "/Users/dada/Desktop/egg-example/node_modules/egg/config/config.default.js",
+    "enablePerformanceTimer": "/Users/dada/Desktop/egg-example/node_modules/egg/config/config.default.js"
+  },
+  "httpclient": {
+    "enableDNSCache": "/Users/dada/Desktop/egg-example/node_modules/egg/config/config.default.js",
+    "dnsCacheLookupInterval": "/Users/dada/Desktop/egg-example/node_modules/egg/config/config.default.js",
+    "dnsCacheMaxLength": "/Users/dada/Desktop/egg-example/node_modules/egg/config/config.default.js",
+    "request": {
+      "timeout": "/Users/dada/Desktop/egg-example/node_modules/egg/config/config.default.js"
+    },
+    "httpAgent": {
+      "keepAlive": "/Users/dada/Desktop/egg-example/node_modules/egg/config/config.default.js",
+      "freeSocketTimeout": "/Users/dada/Desktop/egg-example/node_modules/egg/config/config.default.js",
+      "maxSockets": "/Users/dada/Desktop/egg-example/node_modules/egg/config/config.default.js",
+      "maxFreeSockets": "/Users/dada/Desktop/egg-example/node_modules/egg/config/config.default.js"
+    },
+    "httpsAgent": {
+      "keepAlive": "/Users/dada/Desktop/egg-example/node_modules/egg/config/config.default.js",
+      "freeSocketTimeout": "/Users/dada/Desktop/egg-example/node_modules/egg/config/config.default.js",
+      "maxSockets": "/Users/dada/Desktop/egg-example/node_modules/egg/config/config.default.js",
+      "maxFreeSockets": "/Users/dada/Desktop/egg-example/node_modules/egg/config/config.default.js"
+    }
+  },
+  "meta": {
+    "enable": "/Users/dada/Desktop/egg-example/node_modules/egg/config/config.default.js",
+    "logging": "/Users/dada/Desktop/egg-example/node_modules/egg/config/config.default.js"
+  },
+  "coreMiddleware": "/Users/dada/Desktop/egg-example/node_modules/egg/config/config.default.js",
+  "workerStartTimeout": "/Users/dada/Desktop/egg-example/node_modules/egg/config/config.default.js",
+  "serverTimeout": "/Users/dada/Desktop/egg-example/node_modules/egg/config/config.default.js",
+  "cluster": {
+    "listen": {
+      "path": "/Users/dada/Desktop/egg-example/node_modules/egg/config/config.default.js",
+      "port": "/Users/dada/Desktop/egg-example/node_modules/egg/config/config.default.js",
+      "hostname": "/Users/dada/Desktop/egg-example/node_modules/egg/config/config.default.js"
+    }
+  },
+  "clusterClient": {
+    "maxWaitTime": "/Users/dada/Desktop/egg-example/node_modules/egg/config/config.default.js",
+    "responseTimeout": "/Users/dada/Desktop/egg-example/node_modules/egg/config/config.default.js"
+  },
+  "onClientError": "/Users/dada/Desktop/egg-example/node_modules/egg/config/config.default.js"
+}
